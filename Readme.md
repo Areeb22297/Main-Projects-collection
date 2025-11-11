@@ -43,6 +43,14 @@ Hi! I'm a Frontend Developer and UI/UX Designer currently pursuing B.Tech in Com
 
 ## 🛒 Web & UI Projects
 
+### 🔹 **E-Cell IIIT Delhi – Official Club Website** [`Website`](https://ecell.iiitd.edu.in/) [`GitHub`](https://github.com/nikhil-agrawal123/ecell-website-2025)
+**Tools:** HTML, CSS, JavaScript, Next JS, Tailwind
+- Built and deployed the official website for IIIT Delhi’s Entrepreneurship Cell.
+- Designed a clean, modern UI to showcase events, initiatives, and the team structure.
+- Implemented responsive layouts and smooth navigation for better user experience.
+
+---
+
 ### 🔹 **E-Commerce Platform** [`Website`](https://shopper-e-com-full-stack.netlify.app/) [`GitHub`](https://github.com/Areeb22297/shopper-e-com-Full-Stack)
 **Tools:** HTML, CSS, JavaScript  
 - Created a responsive multi-page frontend for an e-commerce store, including cart, listings, and checkout features  
@@ -67,6 +75,15 @@ Hi! I'm a Frontend Developer and UI/UX Designer currently pursuing B.Tech in Com
 
 ---
 
+### 🔹 **EvenX Landing Page** [`Website`](https://gifting.evenx.in/)
+**Tools:** React, Tailwind CSS, Vite, Lovable
+*Aug 2025*  
+- Designed and developed a high-conversion landing page for EvenX’s gifting platform.
+- Implemented a responsive, mobile-first layout with pixel-perfect UI.
+- Integrated optimized images, animations, and components to improve engagement.
+
+---
+
 ## 🎨 Figma Projects
 
 Explore some of my high-fidelity UI/UX designs crafted in **Figma**, focused on responsiveness, modularity, and user-centered design.
@@ -76,7 +93,6 @@ Explore some of my high-fidelity UI/UX designs crafted in **Figma**, focused on 
 - Designed a high-fidelity event platform UI for speaker lineups, scheduling, and registration workflows  
 - Emphasized mobile-first, modular layout with interactive sections for a real-time user experience
 - **Figma File** [`LINK`](https://www.figma.com/design/T767a5Eng0LWvLSlXagQAk/iterations?node-id=352-7787&p=f&t=wtC638IEY6g1gqQ9-0)
-
 ---
 
 
@@ -105,3 +121,7 @@ Check out some smaller builds, experiments, and design explorations:
 ---
 
 > *“Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs*
+
+
+
+
